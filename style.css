@@ -35,14 +35,14 @@ li.dropDown{
 }
 .dropDown-content a:hover{
   background-color:#dabfdb;
-  color:#CD5C5C;
+  color:#dacae0;
 }
 .dropDown:hover .dropDown-content{
   display:block;
 }
 
 #container{
-  border: 3px solid #000000;
+  border: 3px solid #ffffff;
   position: absolute;
   left:1px;
   margin: 2px;
@@ -52,7 +52,7 @@ li.dropDown{
 }
 
 #container2{
- border: 3px solid #000000;
+ border: 3px solid #ffffff;
   position: absolute;
   right:1px;
   margin: 2px;
@@ -71,5 +71,5 @@ h2{
   text-align:center;
 }
  body{
-   background-color:#CD5C5C;
+   background-color:#dacae0;
  }
