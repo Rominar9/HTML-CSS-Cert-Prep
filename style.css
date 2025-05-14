@@ -23,7 +23,7 @@ li.dropDown{
 .dropDown-content{
   display:none;
   position:absolute;
-  background-color:#700c2b;
+  background-color:#f7f7f7;
   min-width:160px;
   box-shadow:0px 8px 16px 0px rgba(1,0,1,0,3);
   z-index:1;
