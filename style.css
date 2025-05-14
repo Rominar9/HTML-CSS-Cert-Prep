@@ -34,7 +34,7 @@ li.dropDown{
   text-align:left;
 }
 .dropDown-content a:hover{
-  background-color:#dabfdb;
+  background-color:#6c446e;
   color:#dacae0;
 }
 .dropDown:hover .dropDown-content{
